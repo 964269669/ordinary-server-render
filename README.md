@@ -5,5 +5,6 @@
 ```sh
 npm install
 
-node index.js
+node index.js 启动项目
+node seo.js 模拟seo
 ```
